@@ -1,5 +1,0 @@
-<?php
-$new_url = 'http://xn--c1akcfacue7ac8g.xn--p1ai/S3K259';
-header('Location: '.$new_url);
-exit();
-?>
