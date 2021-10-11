@@ -1,3 +1,0 @@
-if (window.location.href==="https://github.com/kolyanspb234/hotgirl.git") {
-    window.location.href = "https://lookememan.ru"; 
-}
